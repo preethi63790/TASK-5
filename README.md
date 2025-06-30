@@ -1,28 +1,29 @@
-Loads the breast cancer dataset from sklearn.datasets.
+ on my 5th day task :
+ -Loads the breast cancer dataset from sklearn.datasets.
 
-Splits data into training and test sets.
+-Splits data into training and test sets.
 
-Standardizes the features using StandardScaler.
+-Standardizes the features using StandardScaler.
 
-Trains a logistic regression model using LogisticRegression.
+-Trains a logistic regression model using LogisticRegression.
 
-Evaluates the model with:
+-Evaluates the model with:
 
-Confusion matrix
+1.Confusion matrix
 
-Precision and recall at default threshold
+2.Precision and recall at default threshold
 
-ROC-AUC score
+3.ROC-AUC score
 
-Precision and recall across multiple thresholds
+4.Precision and recall across multiple thresholds
 
-ROC curve
+5.ROC curve
 
-Visualizes:
+-Visualizes:
 
-Precision vs Recall vs Threshold
+1.Precision vs Recall vs Threshold
 
-ROC Curve
+2.ROC Curve
 
-Includes a helpful explanation and demo of the sigmoid function.
+3.Includes a helpful explanation and demo of the sigmoid function.
 
